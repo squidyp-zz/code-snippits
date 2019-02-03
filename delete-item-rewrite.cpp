@@ -1,4 +1,4 @@
-delete item rewrite
+// delete item rewrite
 
 void DeleteItem(ItemType item){
 	NodeType* location = listData;
