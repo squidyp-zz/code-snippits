@@ -1,4 +1,4 @@
-Delete array item list
+// Delete array item list
 
 void DeleteItem(ItemType item, int arrayItems[], int arraySize){
 	int whatItem;
