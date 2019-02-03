@@ -1,4 +1,4 @@
-length of queue
+// length of queue
 
 int GetLength(std::queue<int>queue){
     int length = 0;
