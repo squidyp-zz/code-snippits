@@ -1,4 +1,4 @@
-SlitLists linked member function
+// SlitLists linked member function
 
 
 void SplitLists(UnsortedType list, ItemType item, UnsortedType& list1, UnsortedType& list2){
