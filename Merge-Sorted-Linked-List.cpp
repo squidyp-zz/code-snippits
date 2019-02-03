@@ -1,4 +1,4 @@
-Merge Sorted linked list
+// Merge Sorted linked list
 
 void MergeLists(SortedType list1, SortedType list2, SortedType& result){
 	Node* list1SP:
