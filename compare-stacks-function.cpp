@@ -1,4 +1,4 @@
-compare stacks function.cpp
+// compare stacks function.cpp
 
 bool identical(std::stack<int>stack1, std::stack<int>stack2){
     std::stack<int>temp1;
