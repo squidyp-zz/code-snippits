@@ -2,8 +2,8 @@
 //  main.cpp
 //  question17
 //
-//  Created by Charles Panter on 11/12/18.
-//  Copyright © 2018 Charles Panter. All rights reserved.
+//  Created Squidy P on 11/12/18.
+//  Copyright © 2018 Squidy P. All rights reserved.
 //
 
 #include <iostream>
