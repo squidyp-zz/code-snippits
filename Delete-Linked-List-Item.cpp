@@ -1,4 +1,4 @@
-Delete linked list item
+// Delete linked list item
 
 void DeleteItem(ItemType item){
 	Node* list = head;
